@@ -1,15 +1,9 @@
-# Basic Sample Hardhat Project
+# CDB NFT 
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
 
-Try running some of the following tasks:
+Testproject on Alchemy/Hardhat to deploy a sample NFT contract (ERC-721). See tutorial on : [https://ethereum.org/en/developers/tutorials/how-to-write-and-deploy-an-nft/]
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+## Transaction:
+
+The deployed smart contract was done in transaction: [0xf621e8b13b531967b2fd49aadaab549ddb8d15ce54233cbaebfa0b0e7706b57f]
+Contract: [0x143D97290F274DAE3b0a4dC7383a5f65c68EE5F6]
